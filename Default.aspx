@@ -13,6 +13,9 @@
         <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Say Hello" />
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
     
+        <br />
+        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+    
     </div>
     </form>
 </body>
